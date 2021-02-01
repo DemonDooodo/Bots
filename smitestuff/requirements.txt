@@ -1,0 +1,8 @@
+pyautogui
+time
+random
+pydirectinput
+win32api
+win32gui
+win32
+subprocess
